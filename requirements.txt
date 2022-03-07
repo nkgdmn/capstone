@@ -1,0 +1,11 @@
+nltk
+python-Levenshtein
+matplotlib
+numpy
+seaborn
+requests
+more_itertools
+networkx
+sklearn
+yellowbrick
+dataframe-image
