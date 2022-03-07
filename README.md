@@ -2,3 +2,6 @@
 What do reviewers focus on when writing about Igor Stravinsky’s works?
 
 During 1920–50, Igor Stravinsky (1882–1971) was a neoclassical composer whose works were known for its unconventional melodic, harmonic, and rhythmic qualities. Often called “wrong-note music,” his works were widely commented on across all levels of expertise.
+
+
+(Dataset included is an abridged version–cannot release all documents due to copyright reasons.)
